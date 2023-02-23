@@ -42,7 +42,7 @@ Header over to my portfolio : *coming soon*
 
 <br />
 
-### Personalized Visual Studio Code Experience
+<!-- ### Personalized Visual Studio Code Experience
 
 **These extesions are helpful in your everyday coding.**  <br/>
 
@@ -56,6 +56,6 @@ Header over to my portfolio : *coming soon*
 
 *linter and syntax highlighting extentions are specific to javascript however you can find one for every language.*
 
-
+ -->
 
 
