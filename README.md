@@ -28,7 +28,7 @@ Almost 3 years of experience building websites , web apps and interactive experi
 <br />
 
 ### Currently Working on 
-User Portal & Whole background for [Kryptokurz](https://kryptokurz.sk/) (Profesional) <br/>
+Digital Classroom User Portal [Kryptokurz](https://kryptokurz.sk/) (Profesional) <br/>
 Ultimate group finder experience [Group Finder](https://github.com/michalzard/Groups) (Personal) <br/><br />
 
 ### Currently Learning
