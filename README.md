@@ -38,7 +38,7 @@ Ultimate group finder experience [Group Finder](https://github.com/michalzard/Gr
 <br/>
 
 ### Want to contact me?
-Head over to my portfolio : *coming soon*
+Head over to my portfolio : <a href="www.michalplatko.sk">Portfolio</a>
 
 <br />
 
