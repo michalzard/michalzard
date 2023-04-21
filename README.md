@@ -28,8 +28,7 @@ Almost 3 years of experience building websites , web apps and interactive experi
 <br />
 
 ### Currently Working on 
-Digital Classroom User Portal [Kryptokurz](https://kryptokurz.sk/) (Profesional) <br/>
-Ultimate group finder experience [Group Finder](https://github.com/michalzard/Groups) (Personal) <br/><br />
+<b>TBA</b>
 
 ### Currently Learning
 <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" />
