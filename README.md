@@ -38,7 +38,7 @@
 <br/>
 
 ### Want to contact me?
-Head over to my portfolio : <a href="https://www.michalplatko.sk">Portfolio</a>
+Leave me a message over at <a href="mailto:miso.platko@gmail.com">miso.platko@gmail.com<a/>
 
 <br />
 
