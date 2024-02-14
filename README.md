@@ -2,7 +2,7 @@
 
 **`Fullstack Web Developer`**
 
-3 years of experience building websites , web apps and interactive experiences using some of most modern technologies out there. 
+4+ years of experience building websites , web apps and interactive experiences using some of most modern technologies out there. 
 
 ---
 
