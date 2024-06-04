@@ -23,7 +23,7 @@
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" />
-<img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-plain.svg" />
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" />
 
@@ -31,30 +31,11 @@
 <br />
 
 ### Currently Learning
-<img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Expo" width="30px" style="padding-right:10px;" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243981/expo-icon-md.png" />
 
 <br/>
 
 ### Want to contact me?
 Leave me a message over at <a href="mailto:miso.platko@gmail.com">miso.platko@gmail.com<a/>
-
-<br />
-
-<!-- ### Personalized Visual Studio Code Experience
-
-**These extesions are helpful in your everyday coding.**  <br/>
-
-[Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) <br/>
-[Babel](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) <br/>
-[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) <br/>
-[EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) <br/>
-[Material Folder icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br/>
-[Prettier Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) <br/>
-[TODO highlighting](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) <br/>
-
-*linter and syntax highlighting extentions are specific to javascript however you can find one for every language.*
-
- -->
-
-
