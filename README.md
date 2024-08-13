@@ -26,6 +26,7 @@
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" />
+<img align="left" alt="Expo" width="30px" style="padding-right:10px;" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243981/expo-icon-md.png" />
 
 <br />
 <br />
@@ -33,9 +34,5 @@
 ### Currently Learning
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Expo" width="30px" style="padding-right:10px;" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243981/expo-icon-md.png" />
 
 <br/>
-
-### Want to contact me?
-Leave me a message over at <a href="mailto:miso.platko@gmail.com">miso.platko@gmail.com<a/>
